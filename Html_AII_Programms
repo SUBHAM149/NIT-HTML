@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ALL HTML PROGRAM</title>
   </head>
-  
+
+
     <h1 style="background-color: rgb(157, 255, 0); text-align: center;">CLASS-1</h1>
     <h1>WELCOME TO THE HTML</h1>
     <!-- heading tags -->
