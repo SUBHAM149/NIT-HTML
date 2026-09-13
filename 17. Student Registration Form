@@ -51,3 +51,26 @@
 
 </body>
 </html>
+OUTPUT
+-------------
+Student Registration Form
+
+Name:     [____________]
+
+Email:    [____________]
+
+Password: [____________]
+
+Age:      [____]
+
+Gender:   ○ Male   ○ Female
+
+Course:   [Java ▼]
+
+Address:
+[                            ]
+[                            ]
+[                            ]
+[                            ]
+
+[Register] [Reset]
