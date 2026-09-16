@@ -1,0 +1,31 @@
+20. Simple Navigation Menu
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Navigation Menu</title>
+</head>
+<body>
+
+    <h1>My Website</h1>
+
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">About</a> |
+        <a href="#">Services</a> |
+        <a href="#">Contact</a>
+    </nav>
+
+    <h2>Welcome to My Website</h2>
+
+    <p>This is a simple HTML navigation menu.</p>
+
+</body>
+</html>
+Output
+My Website
+
+Home | About | Services | Contact
+
+Welcome to My Website
+
+This is a simple HTML navigation menu.
