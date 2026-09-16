@@ -1,0 +1,60 @@
+19. Simple Contact Us Page
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Us</title>
+</head>
+<body>
+
+    <h1>Contact Us</h1>
+
+    <p><b>Name:</b> Subham Behera</p>
+    <p><b>Email:</b> subham@gmail.com</p>
+    <p><b>Phone:</b> 9876543210</p>
+
+    <h2>Send Us a Message</h2>
+
+    <form>
+
+        Name:
+        <input type="text">
+        <br><br>
+
+        Email:
+        <input type="email">
+        <br><br>
+
+        Message:
+        <br>
+        <textarea rows="5" cols="30"></textarea>
+        <br><br>
+
+        <button type="submit">Send Message</button>
+
+    </form>
+
+</body>
+</html>
+
+Output:
+
+Contact Us
+
+Name:  Subham Behera
+Email: subham@gmail.com
+Phone: 9876543210
+
+Send Us a Message
+
+Name:    [____________]
+
+Email:   [____________]
+
+Message:
+[                            ]
+[                            ]
+[                            ]
+[                            ]
+[                            ]
+
+[Send Message]
