@@ -1,0 +1,52 @@
+22. Simple Checkbox Form
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Checkbox Form</title>
+</head>
+<body>
+
+    <h1>Student Skills</h1>
+
+    <form>
+
+        <p>Select your skills:</p>
+
+        <input type="checkbox"> Java
+        <br><br>
+
+        <input type="checkbox"> Python
+        <br><br>
+
+        <input type="checkbox"> HTML
+        <br><br>
+
+        <input type="checkbox"> CSS
+        <br><br>
+
+        <input type="checkbox"> JavaScript
+        <br><br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+
+</body>
+</html>
+Output:
+-----------
+Student Skills
+
+Select your skills:
+
+☐ Java
+
+☐ Python
+
+☐ HTML
+
+☐ CSS
+
+☐ JavaScript
+
+[Submit]
