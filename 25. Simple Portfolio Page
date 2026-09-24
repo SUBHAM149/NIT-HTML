@@ -1,0 +1,66 @@
+25. Simple Portfolio Page
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+    <h1>Subham Behera</h1>
+
+    <h2>Java Full Stack Developer</h2>
+
+    <p>
+        Hello! I am Subham Behera. I am learning Java,
+        Spring Boot, HTML, CSS, JavaScript and SQL.
+    </p>
+
+    <h2>My Skills</h2>
+
+    <ul>
+        <li>Java</li>
+        <li>Spring Boot</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>SQL</li>
+    </ul>
+
+    <h2>My Projects</h2>
+
+    <ol>
+        <li>Banking Application</li>
+        <li>Student Management System</li>
+        <li>College Website</li>
+    </ol>
+
+    <h2>Contact</h2>
+
+    <p>Email: subham@gmail.com</p>
+    <p>Phone: 9876543210</p>
+
+</body>
+</html>
+Output:
+Subham Behera
+Java Full Stack Developer
+
+Hello! I am Subham Behera. I am learning Java,
+Spring Boot, HTML, CSS, JavaScript and SQL.
+
+My Skills
+• Java
+• Spring Boot
+• HTML
+• CSS
+• JavaScript
+• SQL
+
+My Projects
+1. Banking Application
+2. Student Management System
+3. College Website
+
+Contact
+Email: subham@gmail.com
+Phone: 9876543210
