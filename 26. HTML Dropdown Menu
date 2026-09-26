@@ -1,0 +1,37 @@
+26. HTML Dropdown Menu
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropdown Menu</title>
+</head>
+<body>
+
+    <h1>Student Information</h1>
+
+    <form>
+
+        <label>Select Your Course:</label>
+
+        <select>
+            <option>Java</option>
+            <option>Python</option>
+            <option>Web Development</option>
+            <option>Data Analytics</option>
+            <option>Java Full Stack</option>
+        </select>
+
+        <br><br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+
+</body>
+</html>
+Output:
+Student Information
+
+Select Your Course: [ Java ▼ ]
+
+[Submit]
+
